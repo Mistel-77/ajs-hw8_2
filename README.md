@@ -1,6 +1,8 @@
 # ajs-hw8_2
 Домашнее задание к лекции «Контейнеры» Map
 
+[![Build status](https://ci.appveyor.com/api/projects/status/1hvjqr37vxavwkvt/branch/master?svg=true)](https://ci.appveyor.com/project/Mistel-77/ajs-hw8-2/branch/master)
+
 ## Map
 
 ### Легенда
